@@ -37,7 +37,6 @@ next-env.d.ts
 /.cache
 /.eslintcache
 /.storybook
-/.vscode
 
 # IDE and Editor directories
 .idea/
@@ -51,3 +50,12 @@ Desktop.ini
 # Linux-specific
 *.swp
 *.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Custom build artifacts
+build/
+dist/
